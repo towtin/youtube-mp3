@@ -3,12 +3,6 @@
 ## ✨ Introduction
 `youtube-mp3` is a simple minimalistic user interface to download music from youtube playlist and video.
 
-~Playlist example
-
-<p align="center">
-  <img width="700" align="center" src="https://raw.githubusercontent.com/towtin/youtube-mp3/main/public/images/playlistExample.png" alt="demo"/>
-</p>
-
 ~GUI example
 
 <p align="center">
